@@ -1,0 +1,9 @@
+* golden-utils
+
+Auxiliary Utilities
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/lisp-mirror/golden-utils.git |
+| commit  | e43914a                                             |
+| systems | golden-utils                                        |
+|---------+-----------------------------------------------------|
